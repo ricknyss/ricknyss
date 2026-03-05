@@ -23,12 +23,6 @@
 - Machine Learning
 - Data Structures
 - Data Analysis
-- ## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricknyss\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricknyss\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 
 ---
 
