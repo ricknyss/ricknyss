@@ -40,7 +40,9 @@
 Email: tiwarihariom633@gmail.com
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricknyss&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricknyss&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricknyss\&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricknyss\&theme=github_dark)
+
