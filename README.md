@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Hariom Tiwari
 
-<!--
-**ricknyss/ricknyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE (AI/ML) Student  
+🐍 Python Developer  
+📊 Learning Machine Learning & Data Science  
+📍 Pune, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- NumPy
+- Pandas
+- C++
+- Git & GitHub
+- Web Development
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Data Structures
+- Data Analysis
+
+---
+
+## 🔥 Projects
+
+- Intelligent Student Expense & Budget Management System
+- Python Problem Solving
+- Data Analysis with Pandas
+- NumPy Projects
+
+---
+
+## 📫 Contact
+
+Email: tiwarihariom633@gmail.com
