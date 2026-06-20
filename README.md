@@ -45,7 +45,7 @@ new
 
 - Intelligent Student Expense & Budget Management System
 - Python Problem Solving
-- Data Analysis with Pandas
+- Data Analysis with Pandas!!
 - NumPy Projects
 
 -----
