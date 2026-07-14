@@ -1,6 +1,6 @@
 # Hi 👋 I'm a"
 
-💻 B.Tech CSE (AI/ML) Student  
+💻 B.Tech CSE (AI/ML) Student  !!
 🐍 Python Developer  
 📊 Learning Machine Learning & Data Science  
 📍 Pune, India  
